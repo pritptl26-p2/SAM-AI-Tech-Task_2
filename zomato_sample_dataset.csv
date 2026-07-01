@@ -1,0 +1,101 @@
+Restaurant ID,Restaurant Name,City,Cuisines,Aggregate rating,Votes,Average Cost for two,Has Online Delivery,Price Range
+1,SodaBottleOpenerWala,Vadodara,"Parsi, North Indian",4.6,5829,700,Yes,3
+2,Domino's Pizza,Vadodara,"Fast Food, Pizza",4.0,211,300,Yes,3
+3,SodaBottleOpenerWala,Rajkot,"Parsi, North Indian",4.2,5946,700,No,4
+4,McDonald's,Surat,"Fast Food, Burger",4.1,1041,300,Yes,4
+5,Cafe Coffee Day,Mumbai,"Cafe, Beverages",3.8,1056,300,Yes,4
+6,Punjab Grill,Surat,"North Indian, Mughlai",4.2,4184,900,Yes,1
+7,Truffles,Vadodara,"Fast Food, Cafe",4.6,9211,700,Yes,4
+8,The Black Pearl,Ahmedabad,"North Indian, Chinese",4.5,4628,500,Yes,1
+9,Punjab Grill,Ahmedabad,"North Indian, Mughlai",4.3,4651,500,No,1
+10,McDonald's,Mumbai,"Fast Food, Burger",3.6,423,900,Yes,3
+11,Punjab Grill,Ahmedabad,"North Indian, Mughlai",4.1,4690,300,No,4
+12,McDonald's,Surat,"Fast Food, Burger",4.0,615,900,Yes,2
+13,Truffles,Mumbai,"Fast Food, Cafe",5.0,9422,900,No,4
+14,Punjab Grill,Rajkot,"North Indian, Mughlai",4.6,3979,300,No,3
+15,Cafe Coffee Day,Rajkot,"Cafe, Beverages",3.8,931,700,Yes,1
+16,Domino's Pizza,Rajkot,"Fast Food, Pizza",3.7,594,900,Yes,4
+17,Truffles,Ahmedabad,"Fast Food, Cafe",4.4,9983,1200,Yes,4
+18,McDonald's,Mumbai,"Fast Food, Burger",3.7,477,300,No,1
+19,Punjab Grill,Surat,"North Indian, Mughlai",4.1,4395,1200,Yes,3
+20,SodaBottleOpenerWala,Rajkot,"Parsi, North Indian",4.7,5830,300,No,3
+21,McDonald's,Vadodara,"Fast Food, Burger",3.9,1107,300,Yes,4
+22,Toit,Ahmedabad,"Continental, Italian",5.0,11333,300,No,1
+23,Farzi Cafe,Rajkot,"North Indian, Continental",4.5,7146,700,No,1
+24,Punjab Grill,Vadodara,"North Indian, Mughlai",4.0,3865,1200,No,3
+25,Cafe Coffee Day,Ahmedabad,"Cafe, Beverages",3.9,78,500,No,1
+26,SodaBottleOpenerWala,Ahmedabad,"Parsi, North Indian",4.3,5374,300,No,1
+27,Cafe Coffee Day,Ahmedabad,"Cafe, Beverages",4.1,782,1200,No,4
+28,SodaBottleOpenerWala,Vadodara,"Parsi, North Indian",4.7,5930,500,Yes,1
+29,SodaBottleOpenerWala,Rajkot,"Parsi, North Indian",4.2,5446,700,No,3
+30,Punjab Grill,Surat,"North Indian, Mughlai",4.4,4291,500,Yes,1
+31,Toit,Ahmedabad,"Continental, Italian",4.5,11316,900,No,4
+32,SodaBottleOpenerWala,Surat,"Parsi, North Indian",4.5,5898,1200,No,2
+33,Domino's Pizza,Mumbai,"Fast Food, Pizza",3.7,50,500,No,4
+34,The Black Pearl,Surat,"North Indian, Chinese",4.4,4603,900,No,2
+35,Toit,Surat,"Continental, Italian",4.9,10725,900,Yes,2
+36,Punjab Grill,Surat,"North Indian, Mughlai",4.6,4673,1200,No,1
+37,Punjab Grill,Ahmedabad,"North Indian, Mughlai",4.4,4352,500,Yes,2
+38,Toit,Rajkot,"Continental, Italian",5.0,11192,300,Yes,1
+39,Toit,Surat,"Continental, Italian",4.8,10548,900,No,4
+40,Cafe Coffee Day,Surat,"Cafe, Beverages",4.0,808,700,No,1
+41,Barbeque Nation,Mumbai,"North Indian, BBQ",4.2,7670,500,No,2
+42,McDonald's,Rajkot,"Fast Food, Burger",4.0,607,500,No,3
+43,Domino's Pizza,Rajkot,"Fast Food, Pizza",3.6,675,300,Yes,3
+44,Cafe Coffee Day,Mumbai,"Cafe, Beverages",4.0,185,700,Yes,2
+45,Farzi Cafe,Mumbai,"North Indian, Continental",4.3,6643,500,Yes,4
+46,Cafe Coffee Day,Surat,"Cafe, Beverages",3.9,573,500,Yes,2
+47,Domino's Pizza,Surat,"Fast Food, Pizza",3.7,284,300,Yes,2
+48,Barbeque Nation,Rajkot,"North Indian, BBQ",4.4,7358,900,Yes,3
+49,Domino's Pizza,Surat,"Fast Food, Pizza",3.8,50,1200,Yes,2
+50,Farzi Cafe,Vadodara,"North Indian, Continental",4.4,7044,300,Yes,2
+51,Barbeque Nation,Rajkot,"North Indian, BBQ",4.6,7842,700,Yes,1
+52,Truffles,Mumbai,"Fast Food, Cafe",4.9,9812,700,Yes,2
+53,SodaBottleOpenerWala,Ahmedabad,"Parsi, North Indian",4.5,6202,700,No,2
+54,Cafe Coffee Day,Mumbai,"Cafe, Beverages",4.1,512,700,No,3
+55,Truffles,Ahmedabad,"Fast Food, Cafe",4.9,9704,700,No,3
+56,Truffles,Rajkot,"Fast Food, Cafe",4.7,9800,700,No,4
+57,Farzi Cafe,Mumbai,"North Indian, Continental",4.6,6888,700,Yes,1
+58,Truffles,Mumbai,"Fast Food, Cafe",4.8,9374,1200,No,1
+59,Toit,Surat,"Continental, Italian",5.0,10543,900,Yes,2
+60,McDonald's,Vadodara,"Fast Food, Burger",4.1,1112,700,Yes,1
+61,Domino's Pizza,Mumbai,"Fast Food, Pizza",4.0,265,1200,Yes,1
+62,Truffles,Mumbai,"Fast Food, Cafe",5.0,10153,700,No,3
+63,SodaBottleOpenerWala,Vadodara,"Parsi, North Indian",4.2,5960,1200,No,4
+64,McDonald's,Vadodara,"Fast Food, Burger",4.1,1305,500,Yes,2
+65,Cafe Coffee Day,Surat,"Cafe, Beverages",3.8,540,500,No,3
+66,Barbeque Nation,Rajkot,"North Indian, BBQ",4.5,7440,900,No,3
+67,McDonald's,Mumbai,"Fast Food, Burger",3.6,1217,1200,Yes,2
+68,McDonald's,Mumbai,"Fast Food, Burger",4.2,1063,900,No,4
+69,Barbeque Nation,Surat,"North Indian, BBQ",4.2,7896,300,No,3
+70,McDonald's,Vadodara,"Fast Food, Burger",4.0,806,300,Yes,1
+71,Toit,Mumbai,"Continental, Italian",4.7,11411,1200,Yes,3
+72,SodaBottleOpenerWala,Mumbai,"Parsi, North Indian",4.7,5272,700,Yes,1
+73,Toit,Surat,"Continental, Italian",4.5,10523,500,Yes,3
+74,McDonald's,Rajkot,"Fast Food, Burger",3.7,1275,300,Yes,1
+75,McDonald's,Rajkot,"Fast Food, Burger",3.8,773,1200,Yes,4
+76,Truffles,Mumbai,"Fast Food, Cafe",4.5,10040,1200,Yes,2
+77,The Black Pearl,Surat,"North Indian, Chinese",4.4,4147,1200,Yes,3
+78,Barbeque Nation,Vadodara,"North Indian, BBQ",4.2,7610,500,Yes,4
+79,The Black Pearl,Vadodara,"North Indian, Chinese",4.7,4535,900,Yes,4
+80,Truffles,Surat,"Fast Food, Cafe",4.5,9314,300,No,4
+81,Truffles,Surat,"Fast Food, Cafe",4.7,9222,1200,Yes,4
+82,Domino's Pizza,Surat,"Fast Food, Pizza",3.8,597,300,Yes,1
+83,Toit,Rajkot,"Continental, Italian",4.5,11207,300,Yes,1
+84,Cafe Coffee Day,Surat,"Cafe, Beverages",4.1,369,500,No,2
+85,SodaBottleOpenerWala,Mumbai,"Parsi, North Indian",4.5,5248,300,Yes,4
+86,Toit,Rajkot,"Continental, Italian",4.6,10965,900,No,2
+87,Toit,Mumbai,"Continental, Italian",4.6,10644,500,No,3
+88,Cafe Coffee Day,Vadodara,"Cafe, Beverages",3.9,505,900,Yes,1
+89,Toit,Rajkot,"Continental, Italian",4.5,10439,1200,No,4
+90,McDonald's,Vadodara,"Fast Food, Burger",3.9,1181,700,Yes,1
+91,The Black Pearl,Vadodara,"North Indian, Chinese",4.6,4774,300,No,1
+92,Domino's Pizza,Mumbai,"Fast Food, Pizza",3.6,689,300,Yes,4
+93,Cafe Coffee Day,Vadodara,"Cafe, Beverages",4.0,972,500,No,2
+94,Punjab Grill,Rajkot,"North Indian, Mughlai",4.2,3947,1200,Yes,1
+95,SodaBottleOpenerWala,Vadodara,"Parsi, North Indian",4.7,5446,1200,No,4
+96,Punjab Grill,Surat,"North Indian, Mughlai",4.3,3991,700,No,2
+97,Punjab Grill,Surat,"North Indian, Mughlai",4.5,4409,700,Yes,3
+98,Domino's Pizza,Vadodara,"Fast Food, Pizza",3.7,50,1200,Yes,2
+99,Punjab Grill,Surat,"North Indian, Mughlai",4.4,4057,300,No,4
+100,The Black Pearl,Surat,"North Indian, Chinese",4.8,4270,700,No,3
